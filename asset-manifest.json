@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projecto-bebidas-react/static/css/main.c1f01824.css",
+    "main.js": "/projecto-bebidas-react/static/js/main.9586c4bf.js",
+    "static/js/787.e7c266e4.chunk.js": "/projecto-bebidas-react/static/js/787.e7c266e4.chunk.js",
+    "index.html": "/projecto-bebidas-react/index.html",
+    "main.c1f01824.css.map": "/projecto-bebidas-react/static/css/main.c1f01824.css.map",
+    "main.9586c4bf.js.map": "/projecto-bebidas-react/static/js/main.9586c4bf.js.map",
+    "787.e7c266e4.chunk.js.map": "/projecto-bebidas-react/static/js/787.e7c266e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1f01824.css",
+    "static/js/main.9586c4bf.js"
+  ]
+}
